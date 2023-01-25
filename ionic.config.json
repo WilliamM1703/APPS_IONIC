@@ -1,0 +1,7 @@
+{
+  "name": "AsisteApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
